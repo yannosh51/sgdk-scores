@@ -1,0 +1,7 @@
+example/src/scores/
+example/src/scores_config.h
+example/out/
+example/secrets/
+secrets/
+__pycache__/
+*.pyc
