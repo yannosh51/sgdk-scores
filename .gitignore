@@ -5,3 +5,4 @@ example/secrets/
 secrets/
 __pycache__/
 *.pyc
+example/src/boot/
