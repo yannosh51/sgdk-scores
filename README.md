@@ -88,3 +88,7 @@ Le test de l'exemple lance la ROM dans Genesis Plus GX (cœur libretro, variable
 ## Utilisé par
 
 - *Venkman* (Mega Drive) : mode concours, site [scores.yannosh.net](https://scores.yannosh.net).
+
+## Licence
+
+MIT (voir `LICENSE`) : libre d'utilisation, y compris dans un jeu vendu, en gardant la mention de copyright.
